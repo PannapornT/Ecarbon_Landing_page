@@ -1,0 +1,15 @@
+
+.bg-primary-color{
+    background-color: #121138 ;
+}
+.single-box ul{
+    list-style: none;
+    padding: 0;
+}
+.single-box ul li a{
+    text-decoration: none;
+    color: #121138;
+}
+.fotter-color{
+    background:#121138;
+}
